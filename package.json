@@ -1,0 +1,12 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "A máquina Enigma foi uma máquina de criptografia utilizada pela Alemanha durante a Segunda Guerra Mundial para proteger as comunicações militares. A máquina utilizava uma série de rotores que substituíam letras do alfabeto para encriptar e desencriptar mensagens. Este projeto simula o funcionamento básico da máquina Enigma em Java e TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
